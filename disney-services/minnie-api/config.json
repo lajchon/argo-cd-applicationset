@@ -1,5 +1,6 @@
 {
   "name": "minnie-api",
+  "project": "disney-services",
   "repository": "git@github.skillsoft.com:lnmcright/walt-disney-squad.git",
   "source-revision": "master"
 }
